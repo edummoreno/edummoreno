@@ -1,14 +1,11 @@
 ### Olá 👋
 
 <div>
-<div>
   <a href="https://www.youtube.com/watch?v=G1IbRujko-A">
-    <img src="">
+    <img src="https://github.com/edummoreno/edummoreno/assets/45723629/f68b6bd5-9dce-4672-875a-08e62291d099" width="700px">
   </a>
 </div>
 
-
-</div>
 
 
 - 🔭 Atualmente estou trabalhando em ...
