@@ -1,10 +1,21 @@
-### Olá 👋
-
+### Hello! 👋
+<!-- Gandalf Sax -->
 <div>
   <a href="https://www.youtube.com/watch?v=G1IbRujko-A">
-    <img src="https://github.com/edummoreno/edummoreno/assets/45723629/f68b6bd5-9dce-4672-875a-08e62291d099" width="700px">
+    <img src="https://github.com/edummoreno/edummoreno/assets/45723629/f68b6bd5-9dce-4672-875a-08e62291d099" width="800px">
   </a>
 </div>
+
+## Social 😃
+<!-- Links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edummoreno/)
+
+## Skills 🔥
+<!-- Skills: Programming Languages -->
+  <div style="flex-basis: 48%;">
+    <h3>Programming Languages</h3>
+    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  </div>
 
 
 
