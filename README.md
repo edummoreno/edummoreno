@@ -2,7 +2,7 @@
 <!-- Gandalf Sax -->
 <div>
   <a href="https://www.youtube.com/watch?v=G1IbRujko-A">
-    <img src="https://github.com/edummoreno/edummoreno/assets/45723629/f68b6bd5-9dce-4672-875a-08e62291d099" width="800px">
+    <img src="https://github.com/edummoreno/edummoreno/assets/45723629/f68b6bd5-9dce-4672-875a-08e62291d099" width="820px">
   </a>
 </div>
 
