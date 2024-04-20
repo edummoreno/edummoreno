@@ -36,7 +36,7 @@
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
     <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"-->
-    <img align="center" alt="ADVPL" height="90" width="60" src="https://logodownload.org/wp-content/uploads/2019/12/totvs-logo-0.png"-->
+    <img align="center" alt="ADVPL" height="100" width="90" src="https://logodownload.org/wp-content/uploads/2019/12/totvs-logo-0.png"-->
   </div>
 
 ## Click on the image ASCII -> Music
