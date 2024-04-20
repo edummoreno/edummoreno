@@ -1,7 +1,8 @@
 ## Hello! 👋
-## Welcome!
+## Welcome! 👍
 
-## About (English) 👍
+
+## About (English) 🌎
 - 🔭 I am currently working on ADVPL
 - 🌱 I am currently learning ADVPL, Python, AI
 - 👯 Try to collaborate on ...
@@ -11,7 +12,7 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: I know a bit of everything: Linux, Batch Script, Progress 4GL, C, ADVPL, Totvs
 
-## Sobre (Português) 🌎
+## Sobre (Português) 🌳
 - 🔭 Atualmente estou trabalhando em ADVPL
 - 🌱 Atualmente estou aprendendo ADVPL, Python, IA
 - 👯 Procuro colaborar em ...
@@ -39,7 +40,7 @@
     <img align="center" alt="ADVPL" height="100" width="100" src="https://logodownload.org/wp-content/uploads/2019/12/totvs-logo-0.png"-->
   </div>
 
-## Click on the image ASCII -> Music
+## Click on the image ASCII -> Music 🎈
 <!-- Gandalf Sax -->
 <div>
   <a href="https://www.youtube.com/watch?v=G1IbRujko-A">
