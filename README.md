@@ -1,10 +1,5 @@
 ### Hello! 👋
-<!-- Gandalf Sax -->
-<div>
-  <a href="https://www.youtube.com/watch?v=G1IbRujko-A">
-    <img src="https://github.com/edummoreno/edummoreno/assets/45723629/f68b6bd5-9dce-4672-875a-08e62291d099" width="825px">
-  </a>
-</div>
+
 
 ## Languages 💎
 <!-- Stats -->
@@ -22,7 +17,6 @@
     <!--h3>Programming Languages</h3>
     <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"-->
   </div>
-
 
 ## About 👍
 - 🔭 I am currently working on ADVPL
@@ -45,4 +39,10 @@
 - 😄 Pronomes: Ele
 - ⚡ Curiosidade: sei um pouco de tudo linux, batch script, Progress 4GL, C, ADVPL, totvs
 -->
-
+## Click on the imge ASCII -> Music
+<!-- Gandalf Sax -->
+<div>
+  <a href="https://www.youtube.com/watch?v=G1IbRujko-A">
+    <img src="https://github.com/edummoreno/edummoreno/assets/45723629/f68b6bd5-9dce-4672-875a-08e62291d099" width="825px">
+  </a>
+</div>
