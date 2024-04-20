@@ -1,29 +1,25 @@
 ## Hello! 👋
 ## Welcome!
-![Logo GitHub](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
 
-
-## About 👍
+## About (English) 👍
 - 🔭 I am currently working on ADVPL
-- 🌱 I am currently learning ADVPL
-- 👯 Try to collaborate on...
-- 🤔 I'm looking for help with...
-- 💬 Ask me about...
-- 📫 How to contact me: linkedin
-- 😄 Pronouns: he
-- ⚡ Fun fact: ...
--->
+- 🌱 I am currently learning ADVPL, Python, AI
+- 👯 Try to collaborate on ...
+- 🤔 I'm looking for help with Neural Networks in ADVPL, and Blockchain
+- 💬 Ask me about ...
+- 📫 How to contact me: LinkedIn
+- 😄 Pronouns: He
+- ⚡ Fun fact: I know a bit of everything: Linux, Batch Script, Progress 4GL, C, ADVPL, Totvs
 
-## About in Portuguese🌎
+## Sobre (Português) 🌎
 - 🔭 Atualmente estou trabalhando em ADVPL
 - 🌱 Atualmente estou aprendendo ADVPL, Python, IA
 - 👯 Procuro colaborar em ...
-- 🤔 Estou procurando ajuda com Rede Neurais em ADVPL, e Blockchain
+- 🤔 Estou procurando ajuda com Redes Neurais em ADVPL, e Blockchain
 - 💬 Pergunte-me sobre ...
-- 📫 Como entrar em contato comigo: linkedin
+- 📫 Como entrar em contato comigo: LinkedIn
 - 😄 Pronomes: Ele
-- ⚡ Curiosidade: sei um pouco de tudo linux, batch script, Progress 4GL, C, ADVPL, totvs
--->
+- ⚡ Curiosidade: sei um pouco de tudo: Linux, Batch Script, Progress 4GL, C, ADVPL, Totvs
 
 ## Languages 💎
 <!-- Stats -->
@@ -35,18 +31,17 @@
 <!-- Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edummoreno/)
 
-<!--## Skills 🔥
-<!-- Skills: Programming Languages -->
-  <!--div style="flex-basis: 48%;">
-    <!--h3>Programming Languages</h3>
-    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"-->
-  <!--/div-->
-
+<## Skills 🔥
+< Skills: Programming Languages -->
+  <div style="flex-basis: 48%;">
+    <h3>Programming Languages</h3>
+    <!--img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"-->
+  </div>
 
 ## Click on the image ASCII -> Music
 <!-- Gandalf Sax -->
 <div>
   <a href="https://www.youtube.com/watch?v=G1IbRujko-A">
-    <img src="https://github.com/edummoreno/edummoreno/assets/45723629/f68b6bd5-9dce-4672-875a-08e62291d099" width="825px">
+    <img src="https://github.com/edummoreno/edummoreno/blob/master/assets/gandalf_sax.gif" width="825px">
   </a>
 </div>
