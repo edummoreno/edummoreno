@@ -48,6 +48,35 @@
   </a>
 </div>-->
 
-javascript:(function(){var script=document.createElement('script');script.src='[animation.js](https://github.com/edummoreno/edummoreno/blob/main/animation.js)';document.body.appendChild(script);})();
+## Animation
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CSS Animation Example</title>
+<style>
+  .box {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: relative;
+    animation: move 2s infinite alternate;
+  }
+
+  @keyframes move {
+    0% {
+      left: 0;
+    }
+    100% {
+      left: calc(100% - 100px);
+    }
+  }
+</style>
+</head>
+<body>
+<div class="box"></div>
+</body>
+</html>
 
