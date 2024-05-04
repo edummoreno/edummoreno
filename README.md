@@ -46,3 +46,5 @@
 - ⚡ Curiosidade: sei um pouco de tudo linux, batch script, Progress 4GL, C, ADVPL, totvs
 -->
 
+javascript:(function(){ const frames=["  ___   "," /   \\ ","|  O  |"," \\___/ "]; let frameIndex=0; function displayFrame(){ console.clear(); console.log(frames[frameIndex]); frameIndex=(frameIndex+1)%frames.length;} setInterval(displayFrame,200); })();
+
