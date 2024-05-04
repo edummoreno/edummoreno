@@ -1,11 +1,3 @@
-### Hello! 👋
-<!-- Gandalf Sax -->
-<div>
-  <a href="https://www.youtube.com/watch?v=G1IbRujko-A">
-    <img src="https://github.com/edummoreno/edummoreno/assets/45723629/f68b6bd5-9dce-4672-875a-08e62291d099" width="825px">
-  </a>
-</div>
-
 ## Languages 💎
 <!-- Stats -->
 <div align="left">
@@ -48,3 +40,10 @@
 
 javascript:(function(){ const frames=["  ___   "," /   \\ ","|  O  |"," \\___/ "]; let frameIndex=0; function displayFrame(){ console.clear(); console.log(frames[frameIndex]); frameIndex=(frameIndex+1)%frames.length;} setInterval(displayFrame,200); })();
 
+### Hello! 👋
+<!-- Gandalf Sax -->
+<div>
+  <a href="https://www.youtube.com/watch?v=G1IbRujko-A">
+    <img src="https://github.com/edummoreno/edummoreno/assets/45723629/f68b6bd5-9dce-4672-875a-08e62291d099" width="825px">
+  </a>
+</div>
