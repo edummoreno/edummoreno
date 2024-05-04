@@ -40,6 +40,7 @@
   </div>
 
 
+
 <!-- Gandalf Sax -->
 <div>
   <a href="https://www.youtube.com/watch?v=G1IbRujko-A">
@@ -47,4 +48,6 @@
   </a>
 </div>
 
-<button onclick="javascript:(function(){ const frames=['  ___   ',' /   \\ ','|  O  |',' \\___/ ']; let frameIndex=0; function displayFrame(){ console.clear(); console.log(frames[frameIndex]); frameIndex=(frameIndex+1)%frames.length;} setInterval(displayFrame,200); })();">Execute a animação ASCII</button>
+javascript:(function(){var script=document.createElement('script');script.src='[animation.js](https://github.com/edummoreno/edummoreno/blob/main/animation.js)';document.body.appendChild(script);})();
+
+
