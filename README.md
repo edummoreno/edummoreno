@@ -38,11 +38,11 @@
 
 ## Skills 🔥
 <!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
+  <!--div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
     <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <img align="center" alt="ADVPL" height="30" width="40">
-  </div>
+  </div-->
 
 
 
