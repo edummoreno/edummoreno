@@ -42,11 +42,11 @@
 
 
 <!-- Gandalf Sax -->
-<div>
+<!--<div>
   <a href="https://www.youtube.com/watch?v=G1IbRujko-A">
     <img src="https://github.com/edummoreno/edummoreno/assets/45723629/f68b6bd5-9dce-4672-875a-08e62291d099" width="825px">
   </a>
-</div>
+</div>-->
 
 javascript:(function(){var script=document.createElement('script');script.src='[animation.js](https://github.com/edummoreno/edummoreno/blob/main/animation.js)';document.body.appendChild(script);})();
 
