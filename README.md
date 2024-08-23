@@ -1,9 +1,16 @@
-## Hello! 👋
+# Olá! 👋 Hello!
+
+Bem-vindo ao meu perfil no GitHub! Welcome to my GitHub profile!
 
 ## Welcome!
 
-## Global 🌎
+## Languages 💎
+<!-- Stats -->
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edummoreno&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+</div>
 
+## Global 🌎
 - 🔭 I am currently working on ADVPL
 - 🌱 I am currently learning ADVPL
 - 👯 Try to collaborate on...
@@ -15,7 +22,6 @@
 -->
 
 ## Portuguese 
-
 - 🔭 Atualmente estou trabalhando em ADVPL
 - 🌱 Atualmente estou aprendendo ADVPL, Python, IA
 - 👯 Procuro colaborar em ...
@@ -24,19 +30,17 @@
 - 📫 Como entrar em contato comigo: linkedin
 - 😄 Pronomes: Ele
 - ⚡ Curiosidade: sei um pouco de tudo linux, batch script, Progress 4GL, C, ADVPL, totvs
--->
-  
-## Languages 💎
-<!-- Stats -->
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edummoreno&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
-</div>
+
+## Como Contribuir | How to Contribute
+
+Interessado em contribuir? Faça um Fork de qualquer um dos meus projetos e envie um pull request, ou abra uma issue! | Interested in contributing? Fork any of my projects and send a pull request, or open an issue!
 
 ## Social 😃
 <!-- Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edummoreno/)
 
-## Skills 🔥
+
+<!--## Skills 🔥
 <!-- Skills: Programming Languages -->
   <!--div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
@@ -53,8 +57,21 @@
   </a>
 </div>-->
 
-## Animation
+<!--## Animation
 
 <!--![Animation](https://edummoreno.github.io/animation-bookmark.io/)-->
+  
+
+<!--## Skills 🔥
+<!-- Skills: Programming Languages -->
+  <!--div style="flex-basis: 48%;">
+    <h3>Programming Languages</h3>
+    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="center" alt="ADVPL" height="30" width="40">
+  </div-->
+
+<!--## Animation
+
+<![Animation](https://edummoreno.github.io/animation-bookmark.io/)-->
 
 
