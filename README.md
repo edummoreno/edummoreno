@@ -5,25 +5,25 @@
 ## Global 🌎
 
 - 🔭 I am currently working on ADVPL
-- 🌱 I am currently learning ADVPL
-- 👯 Try to collaborate on...
-- 🤔 I'm looking for help with...
+- 🌱 I am currently learning Python, AI
+- 👯 Try to collaborate on Automation and AI projects
+- 🤔 I'm looking for help with Neural Networks and Blockchain
 - 💬 Ask me about...
 - 📫 How to contact me: linkedin
 - 😄 Pronouns: he
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I know a little bit about everything Linux, batch script, Progress 4GL, C, ADVPL, Python, Totvs Protheus
 -->
 
 ## Portuguese 
 
 - 🔭 Atualmente estou trabalhando em ADVPL
-- 🌱 Atualmente estou aprendendo ADVPL, Python, IA
-- 👯 Procuro colaborar em ...
-- 🤔 Estou procurando ajuda com Rede Neurais em ADVPL, e Blockchain
+- 🌱 Atualmente estou aprendendo Python, IA
+- 👯 Procuro colaborar em projetos de Automação e IA
+- 🤔 Estou procurando ajuda com Redes Neurais e Blockchain
 - 💬 Pergunte-me sobre ...
 - 📫 Como entrar em contato comigo: linkedin
 - 😄 Pronomes: Ele
-- ⚡ Curiosidade: sei um pouco de tudo linux, batch script, Progress 4GL, C, ADVPL, totvs
+- ⚡ Curiosidade: sei um pouco de tudo linux, batch script, Progress 4GL, C, ADVPL, Python, Totvs Protheus
 -->
   
 ## Languages 💎
