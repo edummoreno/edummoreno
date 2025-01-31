@@ -1,60 +1,45 @@
 ## Hello! 👋
 
-## Welcome!
+Welcome to my GitHub profile! I'm passionate about AI and automation, constantly learning and looking to connect with like-minded individuals and projects.
 
 ## Global 🌎
 
-- 🔭 I'm currently working on AI python
-- 🌱 I'm currently learning Python, AI
-- 👯 I'm looking to collaborate on Automation and AI projects
-- 🤔 I'm looking for help with Neural Networks
-- 💬 Ask me about...
-- 📫 How to contact me: linkedin
-- 😄 Pronouns: He
-- ⚡ Fun fact: I know a little bit about everything linux, batch script, Progress 4GL, C, ADVPL, Totvs Protheus, my main focus is Python
--->
+- 🔭 Currently diving deep into AI with Python.
+- 🌱 Learning Python and AI techniques to enhance my projects.
+- 👯 Seeking collaborations on Automation and AI initiatives.
+- 🤔 Looking for guidance on Neural Networks.
+- 💬 Ask me about anything related to my interests or projects.
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/edummoreno/) or email: edummoreno@example.com.
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: I have a versatile skill set ranging from Linux to batch scripting, and from Progress 4GL to ADVPL for Totvs Protheus, but Python is my main squeeze.
 
-## Portuguese 
+## Portuguese 🇧🇷
 
-- 🔭 Atualmente estou trabalhando em AI python
-- 🌱 Atualmente estou aprendendo Python, IA
-- 👯 Procuro colaborar em projetos de Automação e IA
-- 🤔 Estou procurando ajuda com Redes Neurais
-- 💬 Pergunte-me sobre ...
-- 📫 Como entrar em contato comigo: linkedin
-- 😄 Pronomes: Ele
-- ⚡ Curiosidade: sei um pouco de tudo linux, batch script, Progress 4GL, C, ADVPL, Totvs Protheus, meu foco principal é Python
--->
-  
+- 🔭 Atualmente estou me dedicando à IA com Python.
+- 🌱 Aprendendo Python e técnicas de IA para melhorar meus projetos.
+- 👯 Busco colaborações em projetos de Automação e IA.
+- 🤔 Preciso de ajuda com Redes Neurais.
+- 💬 Faça perguntas sobre qualquer coisa relacionada aos meus interesses ou projetos.
+- 📫 Entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/edummoreno/) ou e-mail: edummoreno@example.com.
+- 😄 Pronomes: Ele / Dele
+- ⚡ Curiosidade: Tenho um conjunto de habilidades versátil, desde Linux até scripts em batch, e de Progress 4GL a ADVPL para Totvs Protheus, mas meu foco principal é Python.
+
 ## Languages 💎
-<!-- Stats -->
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edummoreno&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edummoreno&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph" />
 </div>
 
 ## Social 😃
-<!-- Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edummoreno/)
 
 ## Skills 🔥
-<!-- Skills: Programming Languages -->
-  <!--div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    <img align="center" alt="ADVPL" height="30" width="40">
-  </div-->
+<div align="center">
+  <h3>Programming Languages</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="30" width="40">
+  <!-- Adicione o ícone ADVPL se disponível, caso contrário, comente esta linha -->
+  <!-- <img src="URL_DO_ICONE_ADVPL" alt="ADVPL" height="30" width="40"> -->
+</div>
 
-
-
-<!-- Gandalf Sax -->
-<!--<div>
-  <a href="https://www.youtube.com/watch?v=G1IbRujko-A">
-    <img src="https://github.com/edummoreno/edummoreno/assets/45723629/f68b6bd5-9dce-4672-875a-08e62291d099" width="825px">
-  </a>
-</div>-->
-
-## Animation
-
-<!--![Animation](https://edummoreno.github.io/animation-bookmark.io/)-->
-
-
+## Animation 🎬
+<!-- Se você tiver uma animação pronta e quiser incluir, descomente a linha abaixo e substitua pelo link correto -->
+<!-- <img src="LINK_DA_ANIMACAO" alt="Animation" width="825px"> -->
