@@ -127,4 +127,6 @@ Now I am moving to **Python and Artificial Intelligence**, focusing on backend d
 * 💼 LinkedIn: [linkedin.com/in/eduardo-moreno-neto](https://www.linkedin.com/in/eduardo-moreno-neto/)
 * ✉️ E-mail: **[eduardo.mmorenoneto@gmail.com](mailto:eduardo.mmorenoneto@gmail.com)**
 
-Sinta-se à vontade para me chamar para conversar sobre **IA aplicada, automação de processos, ERP e backend em Python**. 😄
+Sinta-se à vontade para me chamar para conversar sobre **IA aplicada a Saude**. ❤️
+Feel free to contact me to discuss **AI applied to healthcare**. ❤️
+
