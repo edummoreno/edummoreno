@@ -102,9 +102,9 @@
 
 <div align="center">
 
-![Ceragon Networks](https://img.shields.io/badge/Ceragon%20Networks-Experi%C3%AAncia%20Profissional-0C4A6E?style=for-the-badge)
-![Capgemini](https://img.shields.io/badge/Capgemini-0F70B7?style=for-the-badge\&logo=capgemini\&logoColor=white)
-![TOTVS](https://img.shields.io/badge/TOTVS-00A859?style=for-the-badge\&logo=totvs\&logoColor=white)
+![Marfrig Global Foods](https://img.shields.io/badge/Marfrig%20Global%20Foods-0C4A6E?style=for-the-badge)
+![Brasil ERP](https://img.shields.io/badge/Brasil%20ERP-0277BD?style=for-the-badge)
+![Ceragon Networks](https://img.shields.io/badge/Ceragon%20Networks-1B2A49?style=for-the-badge)
 
 </div>
 
