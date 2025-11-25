@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Eduardo Moreno Neto
 
-**Desenvolvedor Backend Júnior (Python) | ERP Systems (TOTVS Protheus, QAD, Progress 4GL) | Pós em IA (FIAP)**
+**Desenvolvedor Backend  (Python) | ERP Systems (TOTVS Protheus, QAD, Progress 4GL) | Pós em IA (FIAP)**
 *Transição de ADVPL/ERP para Python & Inteligência Artificial, com interesse em IA aplicada à saúde e análise de dados corporativos.*
 
 ---
@@ -11,7 +11,7 @@
   (TOTVS Protheus, QAD, Progress 4GL e Oracle), atuando com banco de dados, integrações e automação de rotinas.
 * 🧠 Em transição para **Python e Inteligência Artificial**, cursando **Pós-graduação em IA para Dev na FIAP**.
 * 🧪 Experiência prática com **Python e Machine Learning**, além de estar explorando **FastAPI, LangChain, scikit-learn e Google Cloud** em projetos acadêmicos e pessoais.
-* 🎯 Busco oportunidades como **Desenvolvedor Backend Júnior / Python Developer**, aplicando APIs, automação e IA em problemas reais.
+* 🎯 Busco oportunidades como **Desenvolvedor Backend  / Python Developer**, aplicando APIs, automação e IA em problemas reais.
 * ❤️ Interesse especial em **IA aplicada à saúde** e em **análise de dados corporativos**.
 
 ---
