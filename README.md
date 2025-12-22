@@ -44,11 +44,15 @@
 ## 📦 Outros Projetos
   
 * [`Quantum-Learning`](https://github.com/edummoreno/Quantum-Learning)
-  Repositório de estudos em **aprendizado de máquina** e tópicos avançados em IA.
+  Repositório de estudos em **Computação Quantica** Apenas didatico.
 
 * [`finances-backend`](https://github.com/edummoreno/finances-backend) & [`finances-frontend`](https://github.com/edummoreno/finances-frontend)
   Aplicação de **controle financeiro pessoal**, com backend em **Java** e frontend em **TypeScript**, desenvolvida em contexto acadêmico.
 
+## 📦 Projeto com que estou mais focado.
+
+* [`Health-Care`](https://github.com/edummoreno/Health-Care)
+  **para mais detalhes veja o README.md**
 ---
 
 ## 🛠️ Habilidades
@@ -67,7 +71,7 @@
 * Experiência com **sistemas ERP corporativos**, customizações, integrações e automação de rotinas.
 * Atuação com **governança de acessos**, migração e configuração de ambientes.
 
-### 🤖 Python, IA & Automação
+### 🤖 Python, IA & LLM
 
 <div align="center">
 
@@ -80,7 +84,7 @@
 
 </div>
 
-* Desenvolvimento em **Python** para automação, processamento de dados e APIs.
+* Desenvolvimento em **Python** para IA, processamento de dados e APIs.
 * Projetos com **Machine Learning** (modelos de regressão/classificação) e experimentos em IA.
 * Exploração de **FastAPI, LangChain** e **Google Cloud** em projetos acadêmicos e pessoais.
 
