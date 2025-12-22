@@ -30,18 +30,24 @@
 > Mais detalhes em cada repositório — aqui vão alguns destaques:
 
 * [`tech-challenge-1`](https://github.com/edummoreno/tech-challenge-1)
-  Modelo de **regressão para previsão de custos médicos**, utilizando Python, Jupyter Notebook e bibliotecas de Machine Learning (Tech Challenge Pós-Tech FIAP).
+  Modelo de **regressão para previsão de custos médicos**
 
 * [`tech-challenge-2`](https://github.com/edummoreno/tech-challenge-2)
-  **Algoritmo genético para otimizar escalas de trabalho em supermercado**, respeitando restrições de legislação e folgas, com implementação em Python.
+  **Algoritmo genético para otimizar escalas de trabalho em supermercado**
+  
+* [`tech-challenge-3`](https://github.com/edummoreno/tech-challenge-3)
+  **Fine-Tuning em Modelo LLM para Otimizar Pedidos de sugestão de livros**
 
+* [`tech-challenge-4`](https://github.com/edummoreno/tech-challenge-4)
+  **Computação Visual, Identificação de rostos, emoções e gestos**
+
+## 📦 Outros Projetos
+  
 * [`Quantum-Learning`](https://github.com/edummoreno/Quantum-Learning)
   Repositório de estudos em **aprendizado de máquina** e tópicos avançados em IA.
 
 * [`finances-backend`](https://github.com/edummoreno/finances-backend) & [`finances-frontend`](https://github.com/edummoreno/finances-frontend)
   Aplicação de **controle financeiro pessoal**, com backend em **Java** e frontend em **TypeScript**, desenvolvida em contexto acadêmico.
-
-> Dica: se surgir um projeto novo mais forte, você pode trocá-lo para esta lista e manter sempre 3–5 principais.
 
 ---
 
